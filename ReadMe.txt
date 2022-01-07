@@ -14,9 +14,6 @@
 	Classification.py  file contains 5 classification methods 
 	(DecisionTreeClassifier, SupportVectorClassifier, RandomForestClassifier, Logistic regression, K-Neighbors Classifier)
 
-----------------------------------------------------------------------------------------------------------
-The above files are giving the output images which are discussed and displayed in the report. 
-
 The below link is for downloading the Scikit library.
 We are using Scikit-sklearn library here (https://scikit-learn.org/stable/)
 
